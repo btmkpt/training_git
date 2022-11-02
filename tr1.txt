@@ -1,1 +1,3 @@
 Ini git file - 1st day
+Line 2
+Line 3
